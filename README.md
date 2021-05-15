@@ -2,7 +2,7 @@
 A simple SPA Portfolio template for developer/designers built with React. Use it to showcase your work, testimonials and other information to clients.
 
 ## Preview
-![Preview]()
+![Preview](https://github.com/Nolsar/React_Portfolio/blob/main/public/images/portfolio_screenshot.jpg?raw=true)
 
 ## How to use
 1. Clone/Download the repo.
