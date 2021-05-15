@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Full-stack Developer",
     "linkedinId":"https://www.linkedin.com/in/sara-n-940845161/",
     // "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": "I am a future full-stack web developer, with a bachelor's degree from Rutger's University in Business Administration and a concentration in Data Analytics. I enjoy working with various parts of frontend development, problem solving, and learning about new technologies. In my free time I enjoy the outdoors, reading, traveling and art.",
     "socialLinks":[
         {
           id: 1,
@@ -24,7 +24,7 @@ let resumeData = {
         //   "className":"fa fa-twitter"
         // }
       ],
-    "aboutme":"A future full-stack web developer, with a bachelor's degree from Rutgers University in Business Administration.f Information Technology and pursuing my B.Tech from here. I believe that to be successful in life, one needs to go after their dreams and passion, and never stop working towards them.",
+    "aboutme":"A future full-stack web developer, with a bachelor's degree from Rutgers University in Business Administration and a concentration in Data Analytics. Workign towards a career in front-end development. I believe that to be successful in life, one needs to go after their dreams and passions, and never stop pursuing them.",
     "address":"New Jersey",
     "website":"https://github.com/Nolsar",
     "education":[
