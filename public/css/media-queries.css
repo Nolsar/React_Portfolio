@@ -50,8 +50,8 @@
    /* About Section
    ------------------------------------------------------------------- */
    #about .profile-pic {
-      width: 114px;
-      height: 114px;
+      width: 100%;
+      height: 100%;
       margin-left: 12px;
    }
    #about .contact-details { width: 50%; }
@@ -215,9 +215,9 @@
 
    /* About Section
    -------------------------------------------------------------------- */
-   #about .profile-pic { display: none; }
+   #about .profile-pic
    #about .download .button {
-      width: 100%;
+      height: 60%;
       text-align: center;
       padding: 15px 20px;
    }
