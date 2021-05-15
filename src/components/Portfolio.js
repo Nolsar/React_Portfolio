@@ -13,14 +13,17 @@ export default class Porfolio extends Component {
               return(
                 <div className="columns portfolio-item">
                   <div className="item-wrap">
-                    <a href="{#modal-01}">
+                  <h5>{item.name}</h5>
+                    <a href={item.deployedapp}>
                       <img src={`${item.imgurl}`} alt="project" className="item-img"/>
                       <div className="overlay">
                         <div className="portfolio-item-meta">
-                          <h5>{item.name}</h5>
                           <p>{item.description}</p>
-                          <p>{item.deployedapp}</p>
-                          <p>{item.githuburl}</p>
+                          {/* <p>{item.deployedapp}</p> */}
+                          {/* <p><a href={item.githuburl}>
+                          Github Repository
+                          </a>
+                            </p> */}
                         </div>
                       </div>
                     </a>

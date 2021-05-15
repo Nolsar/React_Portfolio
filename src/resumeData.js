@@ -84,7 +84,7 @@ let resumeData = {
       {
         id: 1,
         "name":"Extended Play",
-        "description":"application",
+        "description":"Extended Play is a web application which utilizes several API's to call information regarding bands and concerts within a specified radius. Results populate bio, discography, image, and closest event or events. Once events are listed, another listing will show nearest bars to venue, effectively 'extending play' for your evening.",
         "imgurl":"images/extended_play.jpg",
         // "imgurl":"images/extended_play.jpg",
         "deployedapp": "https://nolsar.github.io/extendedplay/",
@@ -93,7 +93,7 @@ let resumeData = {
       {
         id: 2,
         "name":"Pet Speak Health",
-        "description":"web application for veterinarians",
+        "description":"Pet Speak Health (PSH) enables the storage of medical notes, history, and other relevant medical records specific to a pet and their owner. Pet Speak Health uses STT (Speech to Text) notation for when your hands are occupied caring for a per. Medical record transcription takes the pen out of your hands so you can focus on what is really important... caring for the animals! When activated, PSH records audio and will transcribe your notes and store them to a pet's unique file the server. The pet's records are unique to each client ie: owner. Medical records are accessible to the staff, as well as the owner.",
         "imgurl":"images/pet_speak_health.jpg",
         "deployedapp": "https://pet-speak-health.herokuapp.com/",
         "githuburl": "https://github.com/Nolsar/Pet_Speak_Health"
@@ -101,7 +101,7 @@ let resumeData = {
       {
         id: 3,
         "name":"Budget Tracker",
-        "description":"mobileapp",  
+        "description":"A PWA (progressive web application) that allows user to be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.",  
         "imgurl":"images/budget_tracker.jpg",
         "deployedapp": "https://shielded-wildwood-66211.herokuapp.com/",
         "githuburl": "https://github.com/Nolsar/Online-Offline_Budget_Trackers"
@@ -109,7 +109,7 @@ let resumeData = {
       {
         id: 4,
         "name":"Note Taker",
-        "description":"application",
+        "description":"This is a simple Note Taker application that allows users to add, view saved notes and also delete the notes if the user don't need that note anymore. This application uses an express backend and save and retrieve note data from a JSON file.",
         "imgurl":"images/note_taker.jpg",
         "deployedapp": "https://nolsar-note-taker.herokuapp.com/",
         "githuburl": "https://github.com/Nolsar/Note_Taker"
