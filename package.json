@@ -2,14 +2,16 @@
   "name": "resume",
   "version": "0.1.0",
   "private": true,
-  "homepage": "git@github.com:Nolsar/React_Portfolio.git",
+  "homepage": "http://nolsar.github.io/React_Portfolio/",
   "dependencies": {
+    "-": "^0.0.1",
     "gh-pages": "^3.1.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-html-email": "^3.0.0",
     "react-mailto": "^0.4.0",
-    "react-scripts": "^4.0.3"
+    "react-scripts": "^4.0.3",
+    "save-dev": "^0.0.1-security"
   },
   "scripts": {
     "start": "react-scripts start",
