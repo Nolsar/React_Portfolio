@@ -9,7 +9,7 @@ let resumeData = {
         {
           id: 1,
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/sara-n-940845161/",
+          "url":"www.linkedin.com/in/sanolan",
           "className":"fa fa-linkedin"
         },
         {
@@ -115,16 +115,6 @@ let resumeData = {
         "githuburl": "https://github.com/Nolsar/Note_Taker"
       }
     ],
-    // "testimonials":[
-    //   {
-    //     "description":"This is a sample testimonial",
-    //     "name":"Some technical guy"
-    //   },
-    //   {
-    //     "description":"This is a sample testimonial",
-    //     "name":"Some technical guy"
-    //   }
-    // ]
   }
   
-  export default resumeData
+  export default resumeData;
